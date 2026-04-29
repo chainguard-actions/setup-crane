@@ -1,6 +1,5 @@
 {
   "owner": "imjasonh",
   "name": "setup-crane",
-  "visibility": "internal",
-  "description": "Install and authorize crane"
+  "visibility": "public"
 }
